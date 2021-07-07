@@ -1,4 +1,4 @@
-# regrex1_R
+# Regrex1_R
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sandalaj/regrex1_R/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sandalaj/Regrex1_R/HEAD)
 
