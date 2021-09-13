@@ -10,6 +10,12 @@ dependencies:
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
+  - r-DESeq2
+  - r-edgeR
+  - r-limma
+  - r-DSS
+  - r-EBSeq
+  - r-baySeq
   - pip
   - pip:
     - pandas
