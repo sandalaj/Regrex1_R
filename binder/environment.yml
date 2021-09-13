@@ -5,7 +5,6 @@ channels:
   - defaults
 dependencies:
   - r-base=4.0.1
-  - python=3.8.8
   - r-dplyr
   - r-ggplot2
   - r-reshape2
@@ -14,13 +13,3 @@ dependencies:
   - r-edgeR
   - r-limma
   - r-DSS
-  - r-EBSeq
-  - r-baySeq
-  - pip
-  - pip:
-    - pandas
-    - matplotlib
-    - numpy
-    - scipy
-    - seaborn
-    - scikit-learn
